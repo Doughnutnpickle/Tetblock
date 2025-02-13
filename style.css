@@ -1,0 +1,23 @@
+#stakingMenu, #leaderboard {
+    text-align: center;
+    margin-top: 20px;
+}
+
+table {
+    width: 50%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    background: #222;
+}
+
+th, td {
+    border: 1px solid white;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background: #ff5722;
+    color: white;
+}
+
